@@ -51,3 +51,13 @@ python -m pytest
 poetry add pytest@latest --dev
 poetry add pytest@8.3.3 --dev
 ```
+
+## Publish
+
+### Build library
+
+Not required if library is distribiuted by git repo. Still, checks if library can be used properly
+
+```sh
+poetry build
+```
