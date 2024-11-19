@@ -34,3 +34,18 @@ Inside current directory
 ```sh
 poetry init --name="PROJECT-NAME"
 ```
+
+## TESTS
+
+```sh
+python -m pytest
+```
+
+## Install dependencies
+
+### DEV dependencies
+
+```sh
+poetry add pytest@latest --dev
+poetry add pytest@8.3.3 --dev
+```
