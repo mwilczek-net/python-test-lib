@@ -1,4 +1,6 @@
-# README
+# README python-test-lib
+
+Python Test Library to be used in Python Test APP
 
 ## VENV
 Poetry
