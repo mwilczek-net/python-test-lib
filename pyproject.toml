@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "python-test-lib"
+name = "pythontestlib"
 version = "0.1.0"
 description = "Test library for understanding custom libraries and modules"
 authors = ["mwilczek.net"]
