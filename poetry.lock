@@ -23,6 +23,19 @@ files = [
 ]
 
 [[package]]
+name = "numlib"
+version = "0.1.0"
+description = ""
+optional = false
+python-versions = "^3.11"
+files = []
+develop = false
+
+[package.source]
+type = "directory"
+url = "numlib"
+
+[[package]]
 name = "packaging"
 version = "24.2"
 description = "Core utilities for Python packages"
@@ -71,4 +84,4 @@ dev = ["argcomplete", "attrs (>=19.2)", "hypothesis (>=3.56)", "mock", "pygments
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.11"
-content-hash = "5de1dac4013b1fa024524afb71e4d06568e8f2c3a100e9802842f8515b0b092a"
+content-hash = "226f6f4ecae848c06785513d42da64a17423ce1ff4343a664f05d7c1f9e402bc"
